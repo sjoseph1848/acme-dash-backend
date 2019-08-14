@@ -1,0 +1,11 @@
+c:\users\sjose\source\repos\acme-backend\acme-backend\bin\Debug\netcoreapp2.0\acme-backend.deps.json
+c:\users\sjose\source\repos\acme-backend\acme-backend\bin\Debug\netcoreapp2.0\acme-backend.runtimeconfig.json
+c:\users\sjose\source\repos\acme-backend\acme-backend\bin\Debug\netcoreapp2.0\acme-backend.runtimeconfig.dev.json
+c:\users\sjose\source\repos\acme-backend\acme-backend\bin\Debug\netcoreapp2.0\acme-backend.dll
+c:\users\sjose\source\repos\acme-backend\acme-backend\obj\Debug\netcoreapp2.0\acme-backend.csprojAssemblyReference.cache
+c:\users\sjose\source\repos\acme-backend\acme-backend\obj\Debug\netcoreapp2.0\acme-backend.csproj.CoreCompileInputs.cache
+c:\users\sjose\source\repos\acme-backend\acme-backend\obj\Debug\netcoreapp2.0\acme-backend.AssemblyInfoInputs.cache
+c:\users\sjose\source\repos\acme-backend\acme-backend\obj\Debug\netcoreapp2.0\acme-backend.AssemblyInfo.cs
+c:\users\sjose\source\repos\acme-backend\acme-backend\bin\Debug\netcoreapp2.0\acme-backend.pdb
+c:\users\sjose\source\repos\acme-backend\acme-backend\obj\Debug\netcoreapp2.0\acme-backend.dll
+c:\users\sjose\source\repos\acme-backend\acme-backend\obj\Debug\netcoreapp2.0\acme-backend.pdb
